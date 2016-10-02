@@ -11,6 +11,10 @@ ul{
   text-transform: uppercase;
 }
 
-wrapper{
-  background-color: #eee8d5;
+.wrapper{
+  background-color: pink;
+}
+
+#contents, #favs, #facts, #types{
+  color: #93a1a1;
 }
