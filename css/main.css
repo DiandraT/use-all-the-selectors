@@ -15,6 +15,10 @@ ul {
   background-color: #eee8d5;
 }
 
+.dfn:first-child{
+  background-color: #eee8d5;
+}
+
 #contents, #favs, #facts, #types {
   color: #93a1a1;
 }
