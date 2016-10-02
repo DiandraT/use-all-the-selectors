@@ -11,10 +11,18 @@ ul{
   text-transform: uppercase;
 }
 
-.wrapper, .dfn{
+.wrapper{
   background-color: #eee8d5;
 }
 
 #contents, #favs, #facts, #types{
   color: #93a1a1;
+}
+
+.dfn{
+  background-color: #b58900;
+}
+
+strong:last-of-type{
+  color: #fff;
 }
