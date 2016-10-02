@@ -11,8 +11,8 @@ ul{
   text-transform: uppercase;
 }
 
-.wrapper{
-  background-color: pink;
+.wrapper, .dfn{
+  background-color: #eee8d5;
 }
 
 #contents, #favs, #facts, #types{
