@@ -23,6 +23,10 @@ ul{
   background-color: #b58900;
 }
 
-strong:last-of-type{
+strong:first-of-type{
   color: #fff;
+}
+
+mark{
+  background-color: #719e07;
 }
