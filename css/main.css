@@ -30,3 +30,11 @@ strong:first-of-type{
 mark{
   background-color: #719e07;
 }
+
+li a[rel="external"]{
+  background-color: #2694d8;
+}
+
+ol li:first-of-type{
+  color: #719e47;
+}
