@@ -30,7 +30,7 @@ ul {
   background-color: #b58900;
 }
 
-.dfn + strong {
+.dfn p + strong {
   color: #fff;
 }
 
@@ -38,15 +38,15 @@ mark {
   background-color: #719e07;
 }
 
-li a[rel="external"] {
+li a[rel="external"] { /** Select when an attribute that’s exactly the same **/
   background-color: #2694d8;
 }
 
-ol li:first-of-type {
+ol li:first-of-type { /** matches every element that is the first child, of a particular type, of its parent **/
   color: #719e47;
 }
 
-ol li:last-of-type {
+ol li:last-of-type { /** matches every element that is the last child, of a particular type, of its parent **/
   color: #2aa198;
 }
 
